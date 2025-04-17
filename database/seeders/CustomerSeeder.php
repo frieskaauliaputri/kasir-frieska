@@ -24,7 +24,7 @@ class CustomerSeeder extends Seeder
                 ],
                 [
                     'name' => 'dhea nickyta',
-                    'no_hp' => '081234567890',
+                    'no_hp' => '08123456789',
                     'point' => '100',
                 ],
             ];
